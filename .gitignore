@@ -1,0 +1,11 @@
+##
+## Xilinx SDSoC
+##
+.cproject
+
+.project
+
+/.Xil/
+/Debug/
+/Release/
+
